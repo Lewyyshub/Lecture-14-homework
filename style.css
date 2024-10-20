@@ -186,6 +186,10 @@ form {
     margin-left: 100px;
     margin-top: 50px;
     position: relative;
+    height: 600px;
+    width: 5px;
+    padding-left: 70px;
+    padding-top: 180px;
   }
 }
 .link:hover {
